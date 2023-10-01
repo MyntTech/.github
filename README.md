@@ -1,1 +1,1 @@
-# .github
+# Mynt Tech Elections
